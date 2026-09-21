@@ -27,19 +27,19 @@
       "Flowchart": {
         "Type": "Flow",
         "ZoomFactor": "100",
-        "XPosition": "0",
-        "YPosition": "0",
-        "Width": "0",
-        "Hight": "0",
+        "XPosition": "-4950",
+        "YPosition": "-4950",
+        "Width": "10000",
+        "Hight": "10000",
         "IsDeleted": "False",
         "Id": "5af9452c-4616-4eb1-a9d9-354d51f45c3d",
         "BuildingBlocks": [
           {
             "Title": "Start",
-            "XPosition": "5000",
-            "YPosition": "5000",
-            "IsExpanded": "False",
-            "Width": "0",
+            "XPosition": "5090",
+            "YPosition": "5100",
+            "IsExpanded": "True",
+            "Width": "150",
             "TemplateId": "",
             "FlowchartId": "5af9452c-4616-4eb1-a9d9-354d51f45c3d",
             "Type": "Start",
@@ -55,17 +55,17 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "d2c336cd-712f-4416-bed0-b4cc1b6700c9",
+                "ValueId": "8a5a462e-115c-4338-a37a-b4cc21c700c9",
                 "LType": "LText",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "92e2c975-940a-4fdb-af2e-40664a54f922",
                 "ChildProperties": [],
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "d2c336cd-712f-4416-bed0-b4cc1b6700c9"
+                  "Id": "8a5a462e-115c-4338-a37a-b4cc21c700c9"
                 }
               },
               {
@@ -76,7 +76,7 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "16e67d6d-9812-4471-aa26-b4cc1b6600c9",
+                "ValueId": "77b64ef7-88ee-41d8-bbdd-b4cc21c700c9",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
