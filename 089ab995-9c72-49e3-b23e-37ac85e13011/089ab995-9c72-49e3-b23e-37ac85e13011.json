@@ -45,7 +45,7 @@
                 "Key": "Header",
                 "Title": "Wait",
                 "SortOrder": "0",
-                "ValueId": "016b8b23-6cd5-47be-abce-b4d8cc610116",
+                "ValueId": "e31c9749-15ea-4a76-b12c-b4d8e8450116",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -56,7 +56,7 @@
                   {
                     "OutputFlowPropertyId": "5c24e5a5-5d8e-41ba-b028-6c55d9401cbd",
                     "InputFlowPropertyId": "1023f8ed-886c-4f1a-9682-390ac2e63a11",
-                    "Id": "b09e7fb5-30c0-480e-84d5-b4d8cc610116",
+                    "Id": "0c8c7131-636f-483e-97df-b4d8e8450116",
                     "WireGuides": []
                   }
                 ]
@@ -69,7 +69,7 @@
                 "Key": "Delay",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "7dfc2beb-1734-436a-a8b8-b4d8cc610116",
+                "ValueId": "ad4e1390-571e-4b71-8cbb-b4d8e8450116",
                 "LType": "LNumber",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -78,8 +78,8 @@
                 "ChildProperties": [],
                 "Connections": [],
                 "Value": {
-                  "Value": "3",
-                  "Id": "7dfc2beb-1734-436a-a8b8-b4d8cc610116"
+                  "Value": "8",
+                  "Id": "ad4e1390-571e-4b71-8cbb-b4d8e8450116"
                 }
               }
             ]
@@ -105,7 +105,7 @@
                 "Key": "ModuleInput",
                 "Title": "Wait",
                 "SortOrder": "1",
-                "ValueId": "40773002-d2d5-4412-af6f-b4d8cc610116",
+                "ValueId": "a001c9b8-e265-475d-bb72-b4d8e8450116",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -122,7 +122,7 @@
                 "Key": "Header",
                 "Title": "",
                 "SortOrder": "0",
-                "ValueId": "1a64a49b-3bf2-41d6-963e-b4d8cc610116",
+                "ValueId": "9fe205bb-879c-4d9c-96a7-b4d8e8450116",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -139,7 +139,7 @@
                 "Key": "ModuleOutput",
                 "Title": "Pass",
                 "SortOrder": "2",
-                "ValueId": "34c2fe2c-563d-4d56-8df6-b4d8cc610116",
+                "ValueId": "ea184c59-825e-4569-afcc-b4d8e8450116",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -150,7 +150,7 @@
                   {
                     "OutputFlowPropertyId": "d65a6f24-83ae-45a2-baf5-05d4bfe35311",
                     "InputFlowPropertyId": "1043fe80-8aba-475e-b0a9-2138362e3c3a",
-                    "Id": "ead91777-9ee5-4f1c-b7f4-b4d8cc610116",
+                    "Id": "407a9492-06d8-4104-bd47-b4d8e8450116",
                     "WireGuides": []
                   }
                 ]
@@ -178,7 +178,7 @@
                 "Key": "Header",
                 "Title": "Log message",
                 "SortOrder": "0",
-                "ValueId": "668736d3-90e8-48e1-86fd-b4d8cc610116",
+                "ValueId": "1b44501c-066f-4ebf-a5a4-b4d8e8450116",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -189,7 +189,7 @@
                   {
                     "OutputFlowPropertyId": "db725cb0-06d2-442f-85ed-9280db5a6ce4",
                     "InputFlowPropertyId": "5c24e5a5-5d8e-41ba-b028-6c55d9401cbd",
-                    "Id": "3410b09b-4b0a-4d6b-82c0-b4d8cc610116",
+                    "Id": "a30efe00-aed5-45ae-9c02-b4d8e8450116",
                     "WireGuides": []
                   }
                 ]
@@ -217,7 +217,7 @@
                 "Key": "Header",
                 "Title": "Pass",
                 "SortOrder": "0",
-                "ValueId": "68011473-d75d-4cf2-96e4-b4d8cc610116",
+                "ValueId": "899e038f-2fde-4784-b19e-b4d8e8450116",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -228,7 +228,7 @@
                   {
                     "OutputFlowPropertyId": "1043fe80-8aba-475e-b0a9-2138362e3c3a",
                     "InputFlowPropertyId": "23e86db6-3572-4ebd-b5fa-e50b957c7097",
-                    "Id": "074903ee-d0be-41d4-aef5-b4d8cc610116",
+                    "Id": "284263f1-b704-4ddd-b798-b4d8e8450116",
                     "WireGuides": []
                   }
                 ]
